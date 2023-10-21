@@ -1,7 +1,5 @@
-# RedQueen
+# Hi, everyone
 
-
-### Hi
 I am a technology enthusiast and passionate about programming and cybersecurity. 
 -  I’m currently working on Python and C/C++ projects.
 -  I’m learning more about Cybersecurity and Pentest.
