@@ -1,4 +1,4 @@
-# Hi, everyone
+# Hi, everyone ♚
 
 I am a technology enthusiast and passionate about programming and cybersecurity. 
 -  I’m currently working on Python and C/C++ projects.
